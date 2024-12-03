@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MouhabSs
 - 👀 I’m interested in sleeping
-- ⚡ Fun fact: Noting "on purpose"
+- ⚡ Fun fact: Not really good at coding but i can understand it abit ...
 - Still learning 
 <!---
 MouhabSs/MouhabSs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
